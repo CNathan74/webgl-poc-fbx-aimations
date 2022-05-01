@@ -1,9 +1,9 @@
-# Ajout GLTF scene + changement material
-Le but est de charger un GLTF dans une scène avec 2 lumières.
-Également il fallait changer le matériel car WebGL nous fournit un matériel par défaut qui est très gourmant et qui a besoins d'un hdri
+# Animation FBX
+Le but est de charger un FBX dans une scène avec 2 lumières.
+Également il fallait lancer une animation des roues qui tournent.
 
 ## Tester
-Pour le tester, il est déployé sur https://cars.nathan-charvin.fr/
+Pour le tester, il est déployé sur https://cars.nathan-charvin.fr/animate_wheels/
 
 Si vous voulez l'exécuter en local, il vous suffit d'exécuter ces 2 commandes :
   ```sh
